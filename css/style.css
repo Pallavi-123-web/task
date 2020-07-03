@@ -1,0 +1,64 @@
+.pull-right {
+    float: right !important;
+}
+
+.nav-item {
+    padding-right: 40px;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.content {
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 80px;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+.video-section {
+    background-color: #e6e4e3;
+}
+
+.section {
+    text-align: center;
+}
+
+.video {
+    background-color: #fff;
+    height: 150px;
+    width: 100%;
+    border-radius: 20px;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 25px;
+    color: grey;
+}
+
+.sec1,
+.sec2 {
+    background-color: #e6e4e3;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.logo-sec {
+    margin-bottom: 20px;
+}
+
+.logo {
+    background-color: #4bb48d;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+}
